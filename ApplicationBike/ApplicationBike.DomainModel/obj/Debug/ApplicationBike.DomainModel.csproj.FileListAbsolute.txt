@@ -1,0 +1,10 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\bin\Debug\ApplicationBike.DomainModel.dll.config
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\bin\Debug\ApplicationBike.DomainModel.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\bin\Debug\ApplicationBike.DomainModel.pdb
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\bin\Debug\EntityFramework.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\bin\Debug\EntityFramework.xml
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\obj\Debug\ApplicationBike.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\obj\Debug\ApplicationBike.DomainModel.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DomainModel\obj\Debug\ApplicationBike.DomainModel.pdb

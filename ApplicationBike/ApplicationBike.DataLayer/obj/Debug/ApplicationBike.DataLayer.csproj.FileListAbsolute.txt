@@ -1,0 +1,12 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\ApplicationBike.DataLayer.dll.config
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\ApplicationBike.DataLayer.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\ApplicationBike.DataLayer.pdb
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\ApplicationBike.DomainModel.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\ApplicationBike.DomainModel.pdb
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\obj\Debug\ApplicationBike.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\obj\Debug\ApplicationBike.DataLayer.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.DataLayer\obj\Debug\ApplicationBike.DataLayer.pdb
